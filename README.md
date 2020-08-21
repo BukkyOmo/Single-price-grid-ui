@@ -7,6 +7,6 @@
 Thanks for checking out this front-end coding challenge.
 
 # Check out my UI implementation here
-[Link to Frontend implementation](https://intro-component-with-signup-form-frontend-challenge.vercel.app/)
+[Link to Frontend implementation](https://single-price-grid-ui.vercel.app/)
 
 Author: Bukola Odunayo
